@@ -1,0 +1,1 @@
+A real time object detection model that uses webcam to identify objects
